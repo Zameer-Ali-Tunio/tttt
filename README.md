@@ -470,7 +470,7 @@ export default App
 ```
 
 
-<?php
+
 
 namespace App\Http\Controllers;
 
