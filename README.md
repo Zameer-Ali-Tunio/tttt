@@ -467,7 +467,7 @@ const App = () => {
 }
 
 export default App
-```
+
 
 
 
@@ -571,3 +571,4 @@ Route::middleware('auth:sanctum')->group(function () {
     Route::put('/profile', [AuthController::class, 'updateProfile']);
     Route::get('/me', [AuthController::class, 'me']);
 });
+```
